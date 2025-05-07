@@ -1,4 +1,4 @@
-import pandas as pd
-import streamlit as st
-import pydeck as pdk
-import matplotlib.pyplot as plt
+pandas
+streamlit
+matplotlib
+pydeck
